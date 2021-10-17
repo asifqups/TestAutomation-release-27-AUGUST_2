@@ -56,8 +56,8 @@ Excel file contain some variable such as URL and test case it will perform and a
 
 
 # How to change excel file for another site
-##step1: Go to roo/testconf/testData_configuration_for_run_tester
-##step2: Uncomment the file which you wan to use
-##step3: copy the file name and paste it into line no 73 for the file instance
+##Step1: Go to roo/testconf/testData_configuration_for_run_tester
+##Step2: Uncomment the file which you wan to use
+##Step3: copy the file name and paste it into line no 73 for the file instance
 
-Note: Don't press ctrl+c more than once. If you do so excel file will be corrupted.
+###Note: Don't press ctrl+c more than once. If you do so excel file will be corrupted.
